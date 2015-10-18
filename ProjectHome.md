@@ -1,0 +1,1 @@
+Uploading this code to an Arduino with a WaveShield from Adafruit will allow it to run the lights and sounds as from the movie. It will also allow for the addition of a microphone which will read in ambient sounds and control the lights accordingly.
